@@ -1,0 +1,5 @@
+{
+  "name": "T-II Vision",
+  "description": "A professional-grade object detection model testing and reporting platform. Upload models, run inference tests, and generate detailed performance reports.",
+  "requestFramePermissions": []
+}
